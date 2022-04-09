@@ -1,0 +1,10 @@
+.Board {
+  margin: 0 auto;
+  width: 50%;
+  height: 60vh;
+ 
+}
+.Board td{
+  border: 2px solid;
+}
+
